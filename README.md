@@ -44,7 +44,7 @@ This project is licensed under the **MIT License**. You are free to use and modi
 
 ## 🙏 Acknowledgments
 
-The author of this paper would like to express sincere gratitude to his supervisor Professor. X whose insight and guidance were the essential part in the development of the this research  . 💡
+The author of this paper would like to express sincere gratitude to his supervisor Professor  Filipek Kamil whose insight and guidance were the essential part in the development of the this research  . 💡
 
 ---
 
